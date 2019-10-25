@@ -1,2 +1,2 @@
 # FlappyBird
-Codign Train implementation of Flappy Bird
+Coding Train implementation of Flappy Bird
